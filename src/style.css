@@ -1,0 +1,5 @@
+body{
+	font-size:3rem; /* 기본px * 3배 : 반응형! */
+	color: blue;
+}
+
